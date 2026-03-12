@@ -1,0 +1,15 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code settings (if you use it)
+.vscode/
+
+# Temporary files
+*.tmp
+*.bak
+*~
